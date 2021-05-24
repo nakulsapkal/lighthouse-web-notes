@@ -9,7 +9,3 @@ This repository contains all of the notes taken by [Nakul](https://github.com/na
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-
-[LightHouse JS Fundamentals](https://github.com/nakulsapkal/lighthouse-js-fundamentals)
-
-[JavaScripting](https://github.com/nakulsapkal/javascripting)
